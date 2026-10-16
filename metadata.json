@@ -1,0 +1,6 @@
+{
+  "name": "Naija Life SIM",
+  "description": "An authentic, humorous turn-based Nigerian life simulation game. Navigate Sapa, NEPA blackouts, WAEC, ASUU, hustle, careers, Owambe parties, and the quest to Japa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
