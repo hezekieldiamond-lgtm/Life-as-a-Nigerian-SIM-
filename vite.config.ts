@@ -5,6 +5,8 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    // Base path for GitHub Pages. Adjust if you change repo name or Pages config.
+    base: '/Life-as-a-Nigerian-SIM-/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
